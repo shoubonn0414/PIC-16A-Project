@@ -1,0 +1,9 @@
+font.size : 16
+font.family : serif
+lines.linewidth : 2.5
+xtick.direction : in
+xtick.top : True
+xtick.minor.visible : True
+ytick.direction : in
+ytick.right : True
+ytick.minor.visible : True
