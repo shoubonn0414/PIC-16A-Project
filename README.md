@@ -103,6 +103,10 @@ This program allows the image to be processed in real time whenever the frequenc
 
 For future extensions, we can consider adding different filters to the program, such as smoothing and sharpening filters. We can even allow the user to customize the parameters of these filters. This will further shed light into how the frequency spectrum actually affects the image. 
 
+### References and Acknowledgement
+
+Image Fourier Transform Algorithm selected from: D. Ballard and C. Brown Computer Vision, Prentice-Hall, 1982, pp 24 - 30.
+
 ### Software Demo Video
 
 Grayscale Image:
