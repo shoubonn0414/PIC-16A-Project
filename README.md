@@ -104,5 +104,9 @@ This program allows the image to be processed in real time whenever the frequenc
 For future extensions, we can consider adding different filters to the program, such as smoothing and sharpening filters. We can even allow the user to customize the parameters of these filters. This will further shed light into how the frequency spectrum actually affects the image. 
 
 ### Software Demo Video
-![](https://github.com/shoubonn0414/PIC-16A-Project/blob/main/README%20materials/1.mp4)
-![](https://github.com/shoubonn0414/PIC-16A-Project/blob/main/README%20materials/2.mp4)
+
+Grayscale Image:
+https://user-images.githubusercontent.com/119761305/205468357-baecc8c7-bc2c-4abc-b960-17474352c08e.mp4
+
+RGB Image:
+https://user-images.githubusercontent.com/119761305/205468358-8ff4d774-70fc-47dd-98c0-39851d53e357.mp4
