@@ -45,15 +45,13 @@ def check():
 
 if __name__ == "__main__":
 
-    # img = check()
-    #
-    # print("Initiating Program ...")
-    #
-    # #construct grayscale class if the image is a grayscale image,
-    # #construct rgb class is the image is a rbg image
-    # if img.ndim == 2:
-    #     window = grayscale(img)
-    # elif img.ndim == 3:
-    #     window = rgb(img)
-
-    print(os.__version__)
+    img = check()
+    
+    print("Initiating Program ...")
+    
+    #construct grayscale class if the image is a grayscale image,
+    #construct rgb class is the image is a rbg image
+    if img.ndim == 2:
+        window = grayscale(img)
+    elif img.ndim == 3:
+        window = rgb(img)
