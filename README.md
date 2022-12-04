@@ -64,8 +64,9 @@ This Python-built Fourier transform image processing interface allows the user t
 
     After the program is initiated, a interface such as the following will be created:
     
-    <p align="center">
+    <p>
        <img src="https://github.com/shoubonn0414/PIC-16A-Project/blob/main/README%20materials/window.png" width="400" />
+	<figcaption><b>Fig. 1: User Interface</b></figcaption>
     </p>
 
     The interface contains the following features:
@@ -84,20 +85,16 @@ This Python-built Fourier transform image processing interface allows the user t
 	      - `Save Image`: save the processed image in a directory named `saved_figure`
 	      - `Exit`: close the window and exit the program
 	      
-    The user can repeatedly apply the filters or/and delete parts of the spectrum to see how the processed image is affected.
+    The user can repeatedly apply the filters or/and delete parts of the spectrum to see how the processed image is affected. Here are some examples of the filters applied to the image.
     
-    Gaussian High Pass Filter Applied:
-    <p align="center">
+    <p>
        <img src="https://github.com/shoubonn0414/PIC-16A-Project/blob/main/README%20materials/high_pass.png" title="This is a Title" width="400"/>
+	<figcaption><b>Fig. 2: Gaussian High Pass Filter Applied</b></figcaption>
     </p>
-    
-    <img src="/yourpage/mymage.jpg" alt="My Image Alt Text" title="My Image Caption" class="caption" />
 
-
-    
-    Gaussian High Pass Filter Applied after Gaussian Low Pass Filter Applied:
-    <p align="center">
+    <p>
        <img src="https://github.com/shoubonn0414/PIC-16A-Project/blob/main/README%20materials/filter.png" width="400" />
+	<figcaption><b>Fig. 3: Gaussian High Pass Filter Applied after Gaussian Low Pass Filter is Applied</b></figcaption>
     </p>
 		
 
