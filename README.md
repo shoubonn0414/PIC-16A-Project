@@ -46,7 +46,7 @@ This Python-built Fourier transform image processing interface allows the user t
 - `sys` (3.10)
 - `os` (3.10.8)
 
-###Detailed Description of the Demo File
+### Detailed Description of the Demo File
 
 - **Instructions to Run the Program**
 
